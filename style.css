@@ -1,0 +1,50 @@
+ /* #nav-btn p{
+    display: none;
+    opacity: 0;
+}
+#nav-btn:hover p{
+    display: contents;
+    opacity: 1;
+} 
+ #total1{
+    background-color: white;
+    gap: 200px;
+ } 
+  #nav-btn .text  {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+#nav-btn:hover .text  {
+  opacity: 1;
+}
+#nav-btn{
+    border-radius: 30px;
+    padding: 10px 20px;
+}
+
+
+#nav-btn .svg {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+#nav-btn:hover .svg {
+  opacity: 1;
+}
+#nav{
+    align-items: center;
+gap: 100px;
+margin-left: 350px;
+
+    justify-content: space-between;
+}
+#nav-link{
+    gap: 30px;
+    color: red;
+} 
+
+#nav-1{
+    align-items: center;
+    justify-content: ;
+} */
